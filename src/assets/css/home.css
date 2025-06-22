@@ -1,0 +1,33 @@
+.menu div {
+  margin-bottom: 10pt;
+}
+
+.menu div a {
+  display: flex;
+  align-items: center;
+}
+
+.menu i {
+  width: 1.5em;
+  padding-right: 0.5em;
+}
+
+.games {
+  background-color: #ffba08;
+  border-width: 0;
+  color: #242424;
+}
+
+.games:hover {
+  box-shadow: 0 0 15px #ffba08bb;
+}
+
+.apps {
+  background-color: #ececec;
+  border-width: 0;
+  color: #242424;
+}
+
+.apps:hover {
+  box-shadow: 0 0 15px #ecececbb;
+}
