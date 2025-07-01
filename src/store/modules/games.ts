@@ -6,11 +6,11 @@ import { generateProduct } from '../GenerateProduct';
 const BasePath = '/products/games';
 
 const products: Product[] = [
-  // generateProduct('block-line-up', 
-  //   'Block Line Up',
-  //   `${BasePath}/block-line-up`,
-  //   'https://apps.apple.com/us/app/block-line-up/id6446652739',
-  //   'https://play.google.com/store/apps/details?id=com.YellDuck.BlockBash'),
+  generateProduct('super-tic-tac-toe', 
+    'Super Tic Tac Toe',
+    `${BasePath}/super-tic-tac-toe`,
+    'about:blank',
+    'about:blank'),
 ];
 
 export const useGamesStore = defineStore({

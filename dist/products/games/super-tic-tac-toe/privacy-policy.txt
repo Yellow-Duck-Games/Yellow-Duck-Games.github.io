@@ -1,0 +1,52 @@
+Privacy Policy – Super Tic Tac Toe
+Last updated: June 30, 2025
+
+Yellow Duck Games Inc. (“we”, “us”, or “our”) respects your privacy. This Privacy Policy explains how we handle your data when you use Super Tic Tac Toe.
+
+1. Information We Collect
+Super Tic Tac Toe does not collect any personal information directly. However, if you play online or use platform services (e.g., Google Play Games, Apple Game Center), their data policies may apply.
+
+We may collect:
+•   Non-personal data such as gameplay statistics, device type, or general location (country-level) for analytics and improving the game.
+
+2. How We Use Your Data
+We use non-personal data to:
+•   Improve game performance and features
+•   Fix bugs and crashes
+•   Understand how players interact with the game
+
+We do not:
+•   Sell your data
+•   Share your personal info with third parties
+
+3. Online Multiplayer
+If you use the online match features, your username or device ID may be temporarily stored to manage the session. This data is not used for tracking or shared outside the game.
+
+4. Children’s Privacy
+Our game is suitable for all ages and does not knowingly collect data from children under 13. If you believe we’ve collected personal info from a child, please contact us and we’ll remove it.
+
+5. Your Rights
+If you’re in the EU or other regions with privacy laws, you may:
+•   Request access to data we have (if any)
+•   Ask us to delete it
+
+Contact us at: info@yellowduckgames.com
+
+6. Changes to This Policy
+We may update this policy. Changes will be posted in the game or on our website.
+
+7. Ads and Third-Party Services
+Super Tic Tac Toe displays ads using Unity Ads.
+Unity Ads may collect certain data to show relevant ads and improve their service, including:
+•   Device information (model, OS, language)
+•   IP address
+•   Advertising ID (IDFA/GAID)
+•   Approximate location (country or region)
+•   In-game behavior related to ads
+
+This data is collected and processed in accordance with Unity’s privacy policy:
+https://unity.com/legal/game-player-and-app-user-privacy-policy
+
+You can opt out of personalized ads by adjusting your device settings:
+•   Android: Settings > Google > Ads > Opt out of Ads Personalization
+•   iOS: Settings > Privacy & Security > Apple Advertising > Limit Ad Tracking
