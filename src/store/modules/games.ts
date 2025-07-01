@@ -9,8 +9,8 @@ const products: Product[] = [
   generateProduct('super-tic-tac-toe', 
     'Super Tic Tac Toe',
     `${BasePath}/super-tic-tac-toe`,
-    'about:blank',
-    'about:blank'),
+    'https://apps.apple.com/us/app/super-ttt-tic-tac-toe/id6747300434',
+    'https://play.google.com/store/apps/details?id=com.yellduck.superttt'),
 ];
 
 export const useGamesStore = defineStore({
