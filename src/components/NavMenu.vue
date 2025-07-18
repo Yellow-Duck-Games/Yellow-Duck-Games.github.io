@@ -6,7 +6,8 @@ import { ref } from 'vue'
 const iconSize = ref('lg')
 const menuItems = [
   { to: '/games', class: 'games', icon: ['fas', 'gamepad'], tooltip: 'Games', color: '#242424' },
-  { to: '/apps', class: 'apps', icon: ['fab', 'app-store-ios'], tooltip: 'Apps', color: '#242424' }
+  { to: '/apps', class: 'apps', icon: ['fab', 'app-store-ios'], tooltip: 'Apps', color: '#242424' },
+  { to: 'mailto:info@yellowduckgames.com', class: 'Contact Us', icon: ['fas', 'envelope'], tooltip: 'Contact Us', color: '#242424' }
 ]
 const capitalize = (s: string): string => s.charAt(0).toUpperCase() + s.slice(1)
 </script>
