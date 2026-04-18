@@ -121,6 +121,12 @@ watch(
       <div style="flex"></div>
     </div>
 
+    <p class="subtle-link">
+      <AppLink :to="{ path: '/data-deletion-request', query: { title: product?.title } }">
+        Data Deletion Request
+      </AppLink>
+    </p>
+
     <div class="store-buttons">
       <a :href="product?.iosLink" target="_blank" role="button" class="primary">
         <font-awesome-icon class="store-button" :icon="['fab', 'app-store-ios']" /> App Store
@@ -137,4 +143,26 @@ watch(
   height: 100%;
   overflow: hidden;
 }
+
+.separator {
+  margin: 0 0.75rem;
+  color: #666;
+}
+
+  .subtle-link {
+    margin: 1.5rem 0 0;
+    font-size: 0.85rem;
+    color: #777;
+    letter-spacing: 0.02em;
+  }
+
+  .subtle-link a {
+    color: #777;
+    text-decoration: none;
+  }
+
+  .subtle-link a:hover {
+    color: #555;
+    text-decoration: underline;
+  }
 </style>

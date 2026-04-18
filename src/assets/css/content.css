@@ -10,7 +10,7 @@
 .screenshots {
   display: flex;
   overflow-x: auto;
-  justify-content: space-between;
+  justify-content:center;
   gap: 0.5em;
 }
 
