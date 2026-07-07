@@ -1,0 +1,36 @@
+Privacy Policy – Cosmic Dash
+Last updated: July 7, 2026
+
+Yellow Duck Games Inc. (“we”, “us”, or “our”) respects your privacy. This Privacy Policy explains how we handle your data when you use Cosmic Dash.
+
+1. Information We Collect
+Cosmic Dash does not collect any personal information directly. However, if you use platform services (e.g., Google Play Games, Apple Game Center), their data policies may apply.
+
+We may collect:
+•   Non-personal data such as gameplay statistics, device type, or general location (country-level) for analytics and improving the game.
+
+2. How We Use Your Data
+We use non-personal data to:
+•   Improve game performance and features
+•   Fix bugs and crashes
+•   Understand how players interact with the game
+
+We do not:
+•   Sell your data
+•   Share your personal info with third parties
+
+3. Ads
+Cosmic Dash contains no advertising. We do not show ads, and we do not use any advertising or ad-tracking services.
+
+4. Children’s Privacy
+Our game is suitable for all ages and does not knowingly collect data from children under 13. If you believe we’ve collected personal info from a child, please contact us and we’ll remove it.
+
+5. Your Rights
+If you’re in the EU or other regions with privacy laws, you may:
+•   Request access to data we have (if any)
+•   Ask us to delete it
+
+Contact us at: info@yellowduckgames.com
+
+6. Changes to This Policy
+We may update this policy. Changes will be posted in the game or on our website.

@@ -83,12 +83,27 @@ watch(
           <h1>{{ product?.title }}</h1>
           <p class="product__tagline">{{ shortDescriptionText }}</p>
           <div class="store-buttons">
-            <a :href="product?.iosLink" target="_blank" rel="noopener" class="btn btn--ghost">
+            <a
+              v-if="product?.iosLink"
+              :href="product.iosLink"
+              target="_blank"
+              rel="noopener"
+              class="btn btn--ghost"
+            >
               <font-awesome-icon :icon="['fab', 'app-store-ios']" /> App Store
             </a>
-            <a :href="product?.androidLink" target="_blank" rel="noopener" class="btn btn--ghost">
+            <a
+              v-if="product?.androidLink"
+              :href="product.androidLink"
+              target="_blank"
+              rel="noopener"
+              class="btn btn--ghost"
+            >
               <font-awesome-icon :icon="['fab', 'google-play']" /> Google Play
             </a>
+            <span v-if="!product?.iosLink && !product?.androidLink" class="store-soon">
+              <font-awesome-icon :icon="['fas', 'rocket']" /> Coming soon
+            </span>
           </div>
         </div>
       </header>
@@ -204,7 +219,21 @@ watch(
 .store-buttons {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 0.8rem;
+}
+.store-soon {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.92rem;
+  color: var(--gold);
+  border: 1px dashed rgba(255, 186, 8, 0.45);
+  background: rgba(255, 186, 8, 0.08);
+  padding: 0.55rem 1rem;
+  border-radius: var(--radius-pill);
 }
 
 /* about */

@@ -16,7 +16,8 @@ import {
   faChevronRight,
   faXmark,
   faShieldHalved,
-  faTrashCan
+  faTrashCan,
+  faRocket
 } from '@fortawesome/free-solid-svg-icons'
 import { faAppStoreIos, faGooglePlay } from '@fortawesome/free-brands-svg-icons'
 
@@ -29,6 +30,7 @@ library.add(
   faXmark,
   faShieldHalved,
   faTrashCan,
+  faRocket,
   faAppStoreIos,
   faGooglePlay
 )

@@ -16,6 +16,11 @@ const products: Product[] = [
     `${BasePath}/block-line-up`,
     'https://apps.apple.com/us/app/block-line-up/id6446652739',
     'https://play.google.com/store/apps/details?id=com.YellDuck.BlockBash'),
+  generateProduct('cosmic-dash',
+    'Cosmic Dash',
+    `${BasePath}/cosmic-dash`,
+    '',
+    ''),
 ];
 
 export const useGamesStore = defineStore({
