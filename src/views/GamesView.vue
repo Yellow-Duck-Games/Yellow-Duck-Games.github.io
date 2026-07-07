@@ -3,10 +3,13 @@ import List, { type ListEntry } from '@/components/ListComponent.vue'
 import { useGamesStore } from '@/store'
 
 const games = useGamesStore()
-const items: ListEntry[] = games.products.map((product) => ({
-  product,
-  route: `/games/${product.id}`
-}))
+const items: ListEntry[] = games.products
+  .slice()
+  .reverse()
+  .map((product) => ({
+    product,
+    route: `/games/${product.id}`
+  }))
 </script>
 
 <template>

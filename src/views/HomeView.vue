@@ -8,8 +8,14 @@ const games = useGamesStore()
 const apps = useAppsStore()
 
 const showcase = [
-  ...games.products.map((p) => ({ product: p, route: `/games/${p.id}`, tag: 'Game' })),
-  ...apps.products.map((p) => ({ product: p, route: `/apps/${p.id}`, tag: 'App' }))
+  ...games.products
+    .slice()
+    .reverse()
+    .map((p) => ({ product: p, route: `/games/${p.id}`, tag: 'Game' })),
+  ...apps.products
+    .slice()
+    .reverse()
+    .map((p) => ({ product: p, route: `/apps/${p.id}`, tag: 'App' }))
 ]
 </script>
 
@@ -28,7 +34,7 @@ const showcase = [
           from clever puzzles to handy little apps. Simple to pick up, hard to put down.
         </p>
         <div class="hero__actions">
-          <RouterLink to="/games" class="btn btn--primary">
+          <RouterLink to="/games" class="btn btn--ghost">
             <font-awesome-icon :icon="['fas', 'gamepad']" />
             Explore Games
           </RouterLink>
