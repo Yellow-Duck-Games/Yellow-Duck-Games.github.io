@@ -1,15 +1,20 @@
 <script setup lang="ts">
-import '@/assets/css/content.css'
-import List, { type ListItem } from '@/components/ListComponent.vue'
-import { useGamesStore } from '@/store/index'
+import List, { type ListEntry } from '@/components/ListComponent.vue'
+import { useGamesStore } from '@/store'
 
 const games = useGamesStore()
-const products: ListItem[] = games.products.map((product) => ({
-  ...product,
+const items: ListEntry[] = games.products.map((product) => ({
+  product,
   route: `/games/${product.id}`
 }))
 </script>
 
 <template>
-  <List header="Games" :items="products" />
+  <List
+    header="Games"
+    emoji="🎮"
+    tag="Game"
+    subtitle="Clever, joyful games that are easy to learn and hard to put down."
+    :items="items"
+  />
 </template>

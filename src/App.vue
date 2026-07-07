@@ -1,34 +1,38 @@
 <script setup lang="ts">
-import { onMounted } from 'vue'
 import { RouterView } from 'vue-router'
-import NavMenu from '@/components/NavMenu.vue'
-import SocialLinks from './components/SocialLinks.vue'
-import LogoComponent from './components/LogoComponent.vue'
-import ThemeSelector from './components/ThemeSelector.vue'
-
-onMounted(() => {
-  document.documentElement.setAttribute('data-theme', 'dark')
-})
+import NavBar from '@/components/NavBar.vue'
+import SiteFooter from '@/components/SiteFooter.vue'
 </script>
 
 <template>
-  <main class="container">
-    <header>
-      <nav class="header">
-        <LogoComponent />
-        <NavMenu />
-        <SocialLinks />
-        <ThemeSelector />
-      </nav>
-    </header>
-    <RouterView />
-  </main>
+  <NavBar />
+  <RouterView v-slot="{ Component, route }">
+    <transition name="page" mode="out-in">
+      <component :is="Component" :key="route.path" />
+    </transition>
+  </RouterView>
+  <SiteFooter />
 </template>
 
-<style scoped>
-.header {
+<style>
+#app {
   display: flex;
-  flex-wrap: wrap;
-  gap: 2vw;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.page-enter-active,
+.page-leave-active {
+  transition:
+    opacity 0.25s var(--ease-out),
+    transform 0.25s var(--ease-out);
+}
+.page-enter-from {
+  opacity: 0;
+  transform: translateY(12px);
+}
+.page-leave-to {
+  opacity: 0;
+  transform: translateY(-8px);
 }
 </style>

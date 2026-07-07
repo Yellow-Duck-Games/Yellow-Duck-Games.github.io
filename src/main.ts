@@ -1,5 +1,3 @@
-import '@/assets/css/pico.colors.min.css'
-import '@picocss/pico'
 import '@/assets/css/main.css'
 
 import { createApp } from 'vue'
@@ -7,14 +5,33 @@ import App from './App.vue'
 import router from './router'
 import { createPinia } from 'pinia'
 
-// Font Awesome Icons
+// Font Awesome — import only the icons we actually use (keeps the bundle small)
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { fas } from '@fortawesome/free-solid-svg-icons'
-import { far } from '@fortawesome/free-regular-svg-icons'
-import { fab } from '@fortawesome/free-brands-svg-icons'
+import {
+  faEnvelope,
+  faGamepad,
+  faArrowRight,
+  faArrowLeft,
+  faChevronRight,
+  faXmark,
+  faShieldHalved,
+  faTrashCan
+} from '@fortawesome/free-solid-svg-icons'
+import { faAppStoreIos, faGooglePlay } from '@fortawesome/free-brands-svg-icons'
 
-library.add(fas, far, fab)
+library.add(
+  faEnvelope,
+  faGamepad,
+  faArrowRight,
+  faArrowLeft,
+  faChevronRight,
+  faXmark,
+  faShieldHalved,
+  faTrashCan,
+  faAppStoreIos,
+  faGooglePlay
+)
 
 const pinia = createPinia()
 const app = createApp(App)
