@@ -19,8 +19,8 @@ const products: Product[] = [
   generateProduct('cosmic-dash',
     'Cosmic Dash',
     `${BasePath}/cosmic-dash`,
-    '',
-    ''),
+    'https://apps.apple.com/us/app/cosmic-dash/id6788219875',
+    'https://play.google.com/store/apps/details?id=com.yellowduckgames.cosmicdash'),
 ];
 
 export const useGamesStore = defineStore({
