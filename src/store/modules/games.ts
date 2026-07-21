@@ -6,11 +6,6 @@ import { generateProduct } from '../GenerateProduct';
 const BasePath = '/products/games';
 
 const products: Product[] = [
-  generateProduct('bee-sweeper',
-    'Bee Sweeper',
-    `${BasePath}/bee-sweeper`,
-    '',
-    ''),
   generateProduct('super-tic-tac-toe',
     'Super Tic Tac Toe',
     `${BasePath}/super-tic-tac-toe`,
@@ -26,6 +21,11 @@ const products: Product[] = [
     `${BasePath}/cosmic-dash`,
     'https://apps.apple.com/us/app/cosmic-dash/id6788219875',
     'https://play.google.com/store/apps/details?id=com.yellowduckgames.cosmicdash'),
+  generateProduct('bee-sweeper',
+    'Bee Sweeper',
+    `${BasePath}/bee-sweeper`,
+    '',
+    ''),
 ];
 
 export const useGamesStore = defineStore({
