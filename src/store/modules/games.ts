@@ -25,7 +25,8 @@ const products: Product[] = [
     'Bee Sweeper',
     `${BasePath}/bee-sweeper`,
     '',
-    ''),
+    '',
+    4),
 ];
 
 export const useGamesStore = defineStore({
