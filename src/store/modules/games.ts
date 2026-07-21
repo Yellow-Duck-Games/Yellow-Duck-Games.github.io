@@ -6,7 +6,12 @@ import { generateProduct } from '../GenerateProduct';
 const BasePath = '/products/games';
 
 const products: Product[] = [
-  generateProduct('super-tic-tac-toe', 
+  generateProduct('bee-sweeper',
+    'Bee Sweeper',
+    `${BasePath}/bee-sweeper`,
+    '',
+    ''),
+  generateProduct('super-tic-tac-toe',
     'Super Tic Tac Toe',
     `${BasePath}/super-tic-tac-toe`,
     'https://apps.apple.com/us/app/super-ttt-tic-tac-toe/id6747300434',
