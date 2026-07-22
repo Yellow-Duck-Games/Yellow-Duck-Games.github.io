@@ -24,8 +24,8 @@ const products: Product[] = [
   generateProduct('bee-sweeper',
     'Bee Sweeper',
     `${BasePath}/bee-sweeper`,
-    '',
-    '',
+    'https://apps.apple.com/us/app/bee-sweeper/id6792990533',
+    'https://play.google.com/store/apps/details?id=com.yellowduckgames.beesweeper',
     4),
 ];
 
