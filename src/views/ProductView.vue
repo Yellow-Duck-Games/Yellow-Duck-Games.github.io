@@ -83,6 +83,9 @@ watch(
           <h1>{{ product?.title }}</h1>
           <p class="product__tagline">{{ shortDescriptionText }}</p>
           <div class="store-buttons">
+            <a v-if="product?.webLink" :href="product.webLink" class="btn btn--primary">
+              <font-awesome-icon :icon="['fas', 'play']" /> Play in Browser
+            </a>
             <a
               v-if="product?.iosLink"
               :href="product.iosLink"
@@ -101,7 +104,10 @@ watch(
             >
               <font-awesome-icon :icon="['fab', 'google-play']" /> Google Play
             </a>
-            <span v-if="!product?.iosLink && !product?.androidLink" class="store-soon">
+            <span
+              v-if="!product?.iosLink && !product?.androidLink && !product?.webLink"
+              class="store-soon"
+            >
               <font-awesome-icon :icon="['fas', 'rocket']" /> Coming soon
             </span>
           </div>

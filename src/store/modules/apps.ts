@@ -11,6 +11,13 @@ const products: Product[] = [
     `${BasePath}/meme-locker`,
     'https://apps.apple.com/us/app/meme-locker/id6449864451',
     'https://play.google.com/store/apps/details?id=com.YellDuck.MemeLocker'),
+  generateProduct('chiptuna',
+    'CHIPTUNA',
+    `${BasePath}/chiptuna`,
+    '',
+    '',
+    1,
+    '/chiptuna/'),
 ];
 
 export const useAppsStore = defineStore({

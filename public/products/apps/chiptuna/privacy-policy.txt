@@ -1,0 +1,23 @@
+CHIPTUNA is a web app that runs entirely in your browser. We respect your privacy and do not collect any personal information from you when you use it.
+
+1. Information We Collect
+
+None. CHIPTUNA has no accounts, no sign-in, and no server-side processing. Sounds are generated locally on your device.
+
+2. Data Storage
+
+Your sound history and settings are stored only in your browser's local storage, on your own device. They never leave it, and clearing your browser data removes them completely.
+
+3. Third-Party Analytics
+
+We do not use any analytics tools, trackers, or advertising software.
+
+4. Children's Privacy
+
+We do not knowingly collect personal information from anyone, including children under the age of 13, because the app does not collect information at all.
+
+5. Changes to this Privacy Policy
+
+We reserve the right to make changes to this Privacy Policy at any time. We will notify you of any changes by posting the revised Privacy Policy on our website.
+
+If you have any questions or concerns about this Privacy Policy, please contact us at info@yellowduckgames.com.

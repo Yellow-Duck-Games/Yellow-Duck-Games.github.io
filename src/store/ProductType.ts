@@ -5,6 +5,7 @@ export interface Product {
     longDescription: string;
     iosLink: string;
     androidLink: string;
+    webLink?: string;
     privacyPolicy: string;
     thumbnail: string;
     screenshots: string[];

@@ -6,7 +6,8 @@ export const generateProduct = (
     basePath: string,
     iosLink: string,
     androidLink: string,
-    screenshotCount: number = 3
+    screenshotCount: number = 3,
+    webLink: string = ''
   ): Product => ({
     id,
     title,
@@ -16,6 +17,7 @@ export const generateProduct = (
     thumbnail: `${basePath}/icon.png`,
     iosLink,
     androidLink,
+    webLink,
     screenshots: Array.from(
       { length: screenshotCount },
       (_, i) => `${basePath}/screenshot-${i + 1}.png`
