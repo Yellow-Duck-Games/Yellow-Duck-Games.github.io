@@ -61,6 +61,7 @@ defineEmits(['close'])
   position: absolute;
   top: 1rem;
   right: 1rem;
+  z-index: 1;
   width: 40px;
   height: 40px;
   display: grid;
