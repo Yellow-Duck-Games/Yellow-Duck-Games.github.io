@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { onMounted, watch, ref } from 'vue'
+import { computed, onMounted, onUnmounted, watch, ref } from 'vue'
 import { useRoute, useRouter, RouterLink } from 'vue-router'
 import type { Product } from '@/store/ProductType'
 import Modal from './ModalView.vue'
@@ -13,15 +13,29 @@ const product: Product | undefined = products.find(({ id }) => id === route.para
 const backPath = store.title === 'Games' ? '/games' : '/apps'
 
 const showPrivacyPolicy = ref(document.URL.includes('?privacy-policy'))
-const selectedScreenshot = ref('')
+const selectedScreenshotIndex = ref(0)
 const showScreenshot = ref(false)
 const shortDescriptionText = ref('')
 const longDescriptionText = ref('')
 const privacyText = ref('')
 
-const openScreenshotModal = (screenshot: string): void => {
-  selectedScreenshot.value = screenshot
+const screenshots = product?.screenshots ?? []
+const selectedScreenshot = computed(() => screenshots[selectedScreenshotIndex.value])
+
+const openScreenshotModal = (index: number): void => {
+  selectedScreenshotIndex.value = index
   showScreenshot.value = true
+}
+
+const stepScreenshot = (step: number): void => {
+  const count = screenshots.length
+  selectedScreenshotIndex.value = (selectedScreenshotIndex.value + step + count) % count
+}
+
+const onLightboxKeydown = (event: KeyboardEvent): void => {
+  if (!showScreenshot.value || screenshots.length < 2) return
+  if (event.key === 'ArrowRight') stepScreenshot(1)
+  if (event.key === 'ArrowLeft') stepScreenshot(-1)
 }
 
 const parseFile = async (filePath: string): Promise<string> => {
@@ -35,11 +49,16 @@ const parseFile = async (filePath: string): Promise<string> => {
 }
 
 onMounted(async () => {
+  document.addEventListener('keydown', onLightboxKeydown)
   if (product) {
     shortDescriptionText.value = await parseFile(product.shortDescription)
     longDescriptionText.value = await parseFile(product.longDescription)
     privacyText.value = await parseFile(product.privacyPolicy)
   }
+})
+
+onUnmounted(() => {
+  document.removeEventListener('keydown', onLightboxKeydown)
 })
 
 watch(
@@ -131,10 +150,10 @@ watch(
         <h2>Screenshots</h2>
         <div class="shots-row">
           <button
-            v-for="screenshot in product.screenshots"
+            v-for="(screenshot, index) in product.screenshots"
             :key="screenshot"
             class="shot"
-            @click="openScreenshotModal(screenshot)"
+            @click="openScreenshotModal(index)"
           >
             <img :src="screenshot" :alt="`${product.title} screenshot`" loading="lazy" />
           </button>
@@ -174,7 +193,17 @@ watch(
         :fit-content="true"
       >
         <template #body>
-          <img :src="selectedScreenshot" class="lightbox-img" alt="Screenshot" />
+          <div class="lightbox">
+            <img :src="selectedScreenshot" class="lightbox-img" alt="Screenshot" />
+            <template v-if="screenshots.length > 1">
+              <button aria-label="Previous screenshot" class="lightbox-nav lightbox-nav--prev" @click="stepScreenshot(-1)">
+                <font-awesome-icon :icon="['fas', 'chevron-left']" />
+              </button>
+              <button aria-label="Next screenshot" class="lightbox-nav lightbox-nav--next" @click="stepScreenshot(1)">
+                <font-awesome-icon :icon="['fas', 'chevron-right']" />
+              </button>
+            </template>
+          </div>
         </template>
       </Modal>
     </Teleport>
@@ -322,10 +351,40 @@ watch(
   white-space: pre-wrap;
   font-size: 0.92rem;
 }
+.lightbox {
+  position: relative;
+}
 .lightbox-img {
   display: block;
   max-width: 100%;
   max-height: 78dvh;
   width: auto;
+}
+.lightbox-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  background: var(--surface-2);
+  color: var(--text-muted);
+  font-size: 1.1rem;
+  transition:
+    color 0.18s var(--ease-out),
+    border-color 0.18s var(--ease-out);
+}
+.lightbox-nav:hover {
+  color: var(--gold);
+  border-color: var(--gold);
+}
+.lightbox-nav--prev {
+  left: 0.6rem;
+}
+.lightbox-nav--next {
+  right: 0.6rem;
 }
 </style>
