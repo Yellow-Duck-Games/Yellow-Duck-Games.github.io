@@ -1,7 +1,8 @@
 <script setup lang="ts">
 defineProps({
   show: Boolean,
-  showHeader: Boolean
+  showHeader: Boolean,
+  fitContent: Boolean
 })
 defineEmits(['close'])
 </script>
@@ -9,7 +10,7 @@ defineEmits(['close'])
 <template>
   <Transition name="modal">
     <div v-if="show" class="modal-mask" @click.self="$emit('close')">
-      <div class="modal-box" role="dialog" aria-modal="true">
+      <div class="modal-box" :class="{ 'modal-box--fit': fitContent }" role="dialog" aria-modal="true">
         <button aria-label="Close" class="modal-close" @click="$emit('close')">
           <font-awesome-icon :icon="['fas', 'xmark']" />
         </button>
@@ -48,6 +49,12 @@ defineEmits(['close'])
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-soft);
   padding: clamp(1.5rem, 4vw, 2.4rem);
+}
+
+/* shrink-wraps to its content, e.g. a landscape screenshot */
+.modal-box--fit {
+  width: auto;
+  max-width: 100%;
 }
 
 .modal-close {

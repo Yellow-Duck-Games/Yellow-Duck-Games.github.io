@@ -83,8 +83,14 @@ watch(
           <h1>{{ product?.title }}</h1>
           <p class="product__tagline">{{ shortDescriptionText }}</p>
           <div class="store-buttons">
-            <a v-if="product?.webLink" :href="product.webLink" class="btn btn--primary">
-              <font-awesome-icon :icon="['fas', 'play']" /> Play in Browser
+            <a
+              v-if="product?.webLink"
+              :href="product.webLink"
+              target="_blank"
+              rel="noopener"
+              class="btn btn--primary"
+            >
+              <font-awesome-icon :icon="['fas', 'play']" /> Open
             </a>
             <a
               v-if="product?.iosLink"
@@ -161,7 +167,12 @@ watch(
 
     <!-- screenshot lightbox -->
     <Teleport to="body">
-      <Modal :show="showScreenshot" @close="showScreenshot = false" :show-header="false">
+      <Modal
+        :show="showScreenshot"
+        @close="showScreenshot = false"
+        :show-header="false"
+        :fit-content="true"
+      >
         <template #body>
           <img :src="selectedScreenshot" class="lightbox-img" alt="Screenshot" />
         </template>
@@ -312,7 +323,8 @@ watch(
   font-size: 0.92rem;
 }
 .lightbox-img {
-  max-width: 80dvw;
+  display: block;
+  max-width: 100%;
   max-height: 78dvh;
   width: auto;
 }
