@@ -27,6 +27,13 @@ const products: Product[] = [
     'https://apps.apple.com/us/app/bee-sweeper/id6792990533',
     'https://play.google.com/store/apps/details?id=com.yellowduckgames.beesweeper',
     4),
+  // Store links stay empty (page shows "Coming soon") until the listings are live.
+  generateProduct('profitable',
+    'Profitable: Venture Tycoon',
+    `${BasePath}/profitable`,
+    '',
+    '',
+    4),
 ];
 
 export const useGamesStore = defineStore({
