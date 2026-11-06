@@ -17,6 +17,7 @@ import {
   faChevronLeft,
   faXmark,
   faShieldHalved,
+  faFileContract,
   faTrashCan,
   faRocket,
   faPlay
@@ -32,6 +33,7 @@ library.add(
   faChevronLeft,
   faXmark,
   faShieldHalved,
+  faFileContract,
   faTrashCan,
   faRocket,
   faPlay,

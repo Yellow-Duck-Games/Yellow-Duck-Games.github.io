@@ -14,6 +14,7 @@ export const generateProduct = (
     shortDescription: `${basePath}/short-description.txt`,
     longDescription: `${basePath}/long-description.txt`,
     privacyPolicy: `${basePath}/privacy-policy.txt`,
+    termsOfService: `${basePath}/terms-of-service.txt`,
     thumbnail: `${basePath}/icon.png`,
     iosLink,
     androidLink,

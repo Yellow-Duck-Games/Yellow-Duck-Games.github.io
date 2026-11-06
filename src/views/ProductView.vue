@@ -165,6 +165,9 @@ watch(
         <a href="#" class="meta-link" @click.prevent="showPrivacyPolicy = true">
           <font-awesome-icon :icon="['fas', 'shield-halved']" /> Privacy Policy
         </a>
+        <RouterLink v-if="product" class="meta-link" :to="`${backPath}/${product.id}/terms`">
+          <font-awesome-icon :icon="['fas', 'file-contract']" /> Terms of Service
+        </RouterLink>
         <RouterLink
           class="meta-link"
           :to="{ path: '/data-deletion-request', query: { title: product?.title } }"

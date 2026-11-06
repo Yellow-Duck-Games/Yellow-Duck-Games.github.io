@@ -21,14 +21,20 @@ function spaFallback(): Plugin {
       sequential: true,
       order: 'post',
       async handler() {
-        const { copyFile, mkdir, readdir } = await import('node:fs/promises')
+        const { access, copyFile, mkdir, readdir } = await import('node:fs/promises')
         const outDir = fileURLToPath(new URL('./dist', import.meta.url))
         await copyFile(`${outDir}/index.html`, `${outDir}/404.html`)
 
         const routes = ['games', 'apps', 'about', 'data-deletion-request']
         for (const category of ['games', 'apps']) {
           const entries = await readdir(`${outDir}/products/${category}`, { withFileTypes: true })
-          routes.push(...entries.filter((e) => e.isDirectory()).map((e) => `${category}/${e.name}`))
+          for (const e of entries.filter((e) => e.isDirectory())) {
+            routes.push(`${category}/${e.name}`)
+            // Per-product Terms of Service page, linked from the store listings.
+            await access(`${outDir}/products/${category}/${e.name}/terms-of-service.txt`)
+              .then(() => routes.push(`${category}/${e.name}/terms`))
+              .catch(() => {})
+          }
         }
         for (const route of routes) {
           await mkdir(`${outDir}/${route}`, { recursive: true })
