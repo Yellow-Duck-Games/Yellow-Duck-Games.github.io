@@ -1,25 +1,32 @@
 Profitable: Venture Tycoon Privacy Policy
 Last updated: November 5, 2026
 
-Yellow Duck Games Inc. ("we", "us", or "our") respects your privacy. This Privacy Policy explains how we handle your data when you use Profitable: Venture Tycoon ("the game").
+Yellow Duck Games Inc. ("we", "us", or "our") respects your privacy. This Privacy Policy explains how data is handled when you use Profitable: Venture Tycoon ("the game").
 
 1. Information We Collect
-We do not collect any information. The game has no accounts, no analytics, no crash reporting, no advertising and no tracking of any kind, and it does not connect to our servers or any third-party service. The game works fully offline.
+We do not collect personal information ourselves. The game has no accounts, and we do not run our own servers, analytics or crash reporting. Your game progress is saved only on your device.
 
-2. Data Stored on Your Device
-Your game progress (such as your in-game funds, ventures, executives and achievements) is saved only on your own device so you can continue where you left off. This data never leaves your device and is not accessible to us. If your device's operating system backs up app data (for example iCloud Backup or Android Backup), that backup is handled by Apple or Google under their own privacy policies. You can delete your progress at any time with the "Reset Game" button, or by uninstalling the game.
+2. Advertising (Google AdMob)
+The game offers optional rewarded ads: you choose to watch an ad in exchange for an in-game bonus. Ads are never shown unless you tap a button to watch one. Ads are provided by Google AdMob, which may collect and process the following to serve, measure and improve ads and to prevent fraud:
+•   Device identifiers, such as the advertising ID (on iOS only if you allow tracking)
+•   Approximate location derived from your IP address
+•   Ad interaction and performance data, and diagnostic data
+Google's use of this data is described at https://policies.google.com/technologies/partner-sites. On iOS, the game asks for your permission before an advertising identifier can be used, and you can change this at any time in Settings > Privacy & Security > Tracking. Where required by law (for example in the EEA, UK and some US states), the game asks for your consent through Google's consent form. You can review or change your choices at any time in the game's Shop under "Ad privacy choices".
 
-3. Sharing
-When you choose to export a Profit Blueprint, the game opens your device's standard share sheet. Where the blueprint goes is entirely your choice, and we never receive a copy.
+3. In-App Purchases
+The optional Supporter Pack is sold through the Apple App Store or Google Play. Payments are processed entirely by Apple or Google; we never receive your payment details. We only receive confirmation that a purchase was made, which the game uses to unlock the Supporter perks on your device.
 
-4. Ads and In-App Purchases
-The game contains no advertising and no in-app purchases.
+4. Data Stored on Your Device
+Your game progress is stored only on your own device. If your device's operating system backs up app data (for example iCloud Backup or Android Backup), that backup is handled by Apple or Google under their own privacy policies. You can delete your progress at any time with the "Reset Game" button, or by uninstalling the game.
 
-5. Children's Privacy
-The game is suitable for all ages and does not collect personal information from anyone, including children under 13.
+5. Sharing
+When you choose to export a Profit Blueprint, the game opens your device's standard share sheet. Where the blueprint goes is entirely your choice, and we never receive a copy. We do not sell your data.
 
-6. Your Rights
-Because we do not collect or store any personal data, there is nothing for us to access, correct or delete. If you have any questions, contact us at: info@yellowduckgames.com
+6. Children's Privacy
+The game is not directed at children under 13, and we do not knowingly collect personal information from children. Ads are requested with settings suitable for a general audience.
 
-7. Changes to This Policy
+7. Your Rights
+Because we do not collect or store personal data ourselves, there is nothing for us to access, correct or delete. For data processed by Google for advertising, see https://policies.google.com/privacy. If you have any questions, contact us at: info@yellowduckgames.com
+
+8. Changes to This Policy
 We may update this policy. Changes will be posted on this page.
