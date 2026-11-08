@@ -1,0 +1,32 @@
+{
+  "frames": {
+    "rope_0": {
+      "frame": {
+        "x": 0,
+        "y": 11,
+        "w": 32,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 21
+      }
+    }
+  },
+  "meta": {
+    "image": "rope.png",
+    "size": {
+      "w": 32,
+      "h": 32
+    },
+    "scale": 1
+  }
+}

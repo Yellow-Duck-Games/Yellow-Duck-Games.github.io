@@ -1,0 +1,766 @@
+[
+  {
+    "key": "blood-splatter-splat-0",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_0",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_1",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_2",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_3",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_4",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_5",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_6",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_7",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_8",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_9",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_10",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_11",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_12",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_13",
+        "duration": 17
+      }
+    ]
+  },
+  {
+    "key": "blood-splatter-splat-1",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_14",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_15",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_16",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_17",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_18",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_19",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_20",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_21",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_22",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_23",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_24",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_25",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_26",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_27",
+        "duration": 17
+      }
+    ]
+  },
+  {
+    "key": "blood-splatter-splat-2",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_28",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_29",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_30",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_31",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_32",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_33",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_34",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_35",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_36",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_37",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_38",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_39",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_40",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_41",
+        "duration": 17
+      }
+    ]
+  },
+  {
+    "key": "blood-splatter-splat-3",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_42",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_43",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_44",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_45",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_46",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_47",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_48",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_49",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_50",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_51",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_52",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_53",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_54",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_55",
+        "duration": 17
+      }
+    ]
+  },
+  {
+    "key": "blood-splatter-splat-4",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_56",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_57",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_58",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_59",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_60",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_61",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_62",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_63",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_64",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_65",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_66",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_67",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_68",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_69",
+        "duration": 17
+      }
+    ]
+  },
+  {
+    "key": "blood-splatter-splat-5",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_70",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_71",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_72",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_73",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_74",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_75",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_76",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_77",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_78",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_79",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_80",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_81",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_82",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_83",
+        "duration": 17
+      }
+    ]
+  },
+  {
+    "key": "blood-splatter-splat-6",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_84",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_85",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_86",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_87",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_88",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_89",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_90",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_91",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_92",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_93",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_94",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_95",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_96",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_97",
+        "duration": 17
+      }
+    ]
+  },
+  {
+    "key": "blood-splatter-splat-7",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_98",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_99",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_100",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_101",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_102",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_103",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_104",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_105",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_106",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_107",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_108",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_109",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_110",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_111",
+        "duration": 17
+      }
+    ]
+  },
+  {
+    "key": "blood-splatter-splat-8",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_112",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_113",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_114",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_115",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_116",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_117",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_118",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_119",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_120",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_121",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_122",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_123",
+        "duration": 67
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_124",
+        "duration": 83
+      },
+      {
+        "key": "blood-sheet",
+        "frame": "blood-sheet_125",
+        "duration": 17
+      }
+    ]
+  },
+  {
+    "key": "enemy-idle",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "enemy-idle",
+        "frame": "enemy-idle_0",
+        "duration": 967
+      },
+      {
+        "key": "enemy-idle",
+        "frame": "enemy-idle_1",
+        "duration": 967
+      }
+    ]
+  },
+  {
+    "key": "enemy-walk",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "enemy-walk",
+        "frame": "enemy-walk_0",
+        "duration": 83
+      },
+      {
+        "key": "enemy-walk",
+        "frame": "enemy-walk_1",
+        "duration": 100
+      }
+    ]
+  },
+  {
+    "key": "player-idle",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "player-idle",
+        "frame": "player-idle_0",
+        "duration": 1000
+      },
+      {
+        "key": "player-idle",
+        "frame": "player-idle_1",
+        "duration": 1017
+      }
+    ]
+  },
+  {
+    "key": "player-walk",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "player-walk",
+        "frame": "player-walk_0",
+        "duration": 317
+      },
+      {
+        "key": "player-walk",
+        "frame": "player-walk_1",
+        "duration": 300
+      }
+    ]
+  },
+  {
+    "key": "key-hint-idle",
+    "repeat": -1,
+    "frames": [
+      {
+        "key": "key-hint",
+        "frame": "key-hint_0",
+        "duration": 500
+      },
+      {
+        "key": "key-hint",
+        "frame": "key-hint_1",
+        "duration": 517
+      }
+    ]
+  }
+]

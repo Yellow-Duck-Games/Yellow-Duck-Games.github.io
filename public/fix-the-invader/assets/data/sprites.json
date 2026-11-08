@@ -1,0 +1,230 @@
+{
+  "bg-city-scrapes": {
+    "scale": 1
+  },
+  "billboard": {
+    "scale": 1
+  },
+  "blood-pixels-sheet": {
+    "scale": 0.32
+  },
+  "blood-sheet": {
+    "scale": 0.32
+  },
+  "blood-splatters": {
+    "scale": 1
+  },
+  "bucket": {
+    "scale": 0.64
+  },
+  "bush": {
+    "scale": 1
+  },
+  "button": {
+    "scale": 1
+  },
+  "debris-tile-crate": {
+    "scale": 0.32
+  },
+  "decal-sign-fix-the-invader": {
+    "scale": 1
+  },
+  "enemy-detached": {
+    "scale": 1
+  },
+  "enemy-idle": {
+    "scale": 1
+  },
+  "enemy-walk": {
+    "scale": 1
+  },
+  "health-charger": {
+    "scale": 1
+  },
+  "icon-quest-active": {
+    "scale": 1
+  },
+  "icon-quest-complete": {
+    "scale": 1
+  },
+  "inventory-bag": {
+    "scale": 1
+  },
+  "inventory-cell": {
+    "scale": 1,
+    "nineSlice": {
+      "left": 4,
+      "right": 4,
+      "top": 4,
+      "bottom": 4
+    }
+  },
+  "jump-particles": {
+    "scale": 0.32
+  },
+  "key-hint-background": {
+    "scale": 1,
+    "nineSlice": {
+      "left": 8,
+      "right": 7,
+      "top": 8,
+      "bottom": 10
+    }
+  },
+  "key-hint": {
+    "scale": 1
+  },
+  "lamp-light": {
+    "scale": 0.5
+  },
+  "noose": {
+    "scale": 1
+  },
+  "player-idle": {
+    "scale": 1
+  },
+  "player-walk": {
+    "scale": 1
+  },
+  "progress-bar-fill": {
+    "scale": 0.32,
+    "nineSlice": {
+      "left": 0,
+      "right": 31,
+      "top": 0,
+      "bottom": 0
+    }
+  },
+  "rope": {
+    "scale": 1
+  },
+  "saw": {
+    "scale": 1
+  },
+  "speech-bubble": {
+    "scale": 1,
+    "nineSlice": {
+      "left": 2,
+      "right": 2,
+      "top": 2,
+      "bottom": 2
+    }
+  },
+  "spray-add-sign": {
+    "scale": 0.4
+  },
+  "table": {
+    "scale": 1
+  },
+  "tile-brick-wall-brown-2": {
+    "scale": 1
+  },
+  "tile-brick-wall-hole": {
+    "scale": 1
+  },
+  "tile-brick-wall-side-red": {
+    "scale": 1
+  },
+  "tile-brick-wall-side": {
+    "scale": 1
+  },
+  "tile-brick-wall": {
+    "scale": 1
+  },
+  "tile-counter-body": {
+    "scale": 1
+  },
+  "tile-counter-top": {
+    "scale": 1
+  },
+  "tile-crate-2": {
+    "scale": 1
+  },
+  "tile-crate": {
+    "scale": 1
+  },
+  "tile-dirt-1": {
+    "scale": 1
+  },
+  "tile-dirt-2": {
+    "scale": 1
+  },
+  "tile-ladder": {
+    "scale": 1
+  },
+  "tile-lamp-small": {
+    "scale": 1
+  },
+  "tile-lamp": {
+    "scale": 1
+  },
+  "tile-platform": {
+    "scale": 1
+  },
+  "tile-road-end": {
+    "scale": 1
+  },
+  "tile-road": {
+    "scale": 1
+  },
+  "tile-sunflower": {
+    "scale": 1
+  },
+  "tile-vent": {
+    "scale": 1
+  },
+  "tile-wall-1": {
+    "scale": 1
+  },
+  "tile-wall-2": {
+    "scale": 1
+  },
+  "tile-window-opaq": {
+    "scale": 1
+  },
+  "tile-window": {
+    "scale": 1
+  },
+  "tile-wire-half": {
+    "scale": 1
+  },
+  "tile-wire": {
+    "scale": 1
+  },
+  "tiles-asphalt": {
+    "scale": 1
+  },
+  "tiles-brick-wall-brown": {
+    "scale": 1
+  },
+  "tiles-clouds": {
+    "scale": 1
+  },
+  "tiles-fence": {
+    "scale": 1
+  },
+  "tiles-roof-2": {
+    "scale": 1
+  },
+  "tiles-roof": {
+    "scale": 1
+  },
+  "tiles-weed": {
+    "scale": 1
+  },
+  "toggle": {
+    "scale": 1
+  },
+  "trash-bag": {
+    "scale": 1
+  },
+  "tree-2": {
+    "scale": 1
+  },
+  "tree": {
+    "scale": 1
+  },
+  "wall-nail": {
+    "scale": 1
+  }
+}

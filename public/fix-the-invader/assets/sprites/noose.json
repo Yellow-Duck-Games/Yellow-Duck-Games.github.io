@@ -1,0 +1,32 @@
+{
+  "frames": {
+    "noose_0": {
+      "frame": {
+        "x": 4,
+        "y": 0,
+        "w": 24,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 64
+      }
+    }
+  },
+  "meta": {
+    "image": "noose.png",
+    "size": {
+      "w": 32,
+      "h": 64
+    },
+    "scale": 1
+  }
+}

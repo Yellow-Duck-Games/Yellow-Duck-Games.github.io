@@ -1,0 +1,32 @@
+{
+  "frames": {
+    "bucket_0": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 28,
+        "h": 30
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 30
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 30
+      }
+    }
+  },
+  "meta": {
+    "image": "bucket.png",
+    "size": {
+      "w": 32,
+      "h": 32
+    },
+    "scale": 1
+  }
+}

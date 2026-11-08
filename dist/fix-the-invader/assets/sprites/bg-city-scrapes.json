@@ -1,0 +1,72 @@
+{
+  "frames": {
+    "bg-city-scrapes_0": {
+      "frame": {
+        "x": 12,
+        "y": 44,
+        "w": 176,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 176,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 176,
+        "h": 212
+      }
+    },
+    "bg-city-scrapes_1": {
+      "frame": {
+        "x": 196,
+        "y": 64,
+        "w": 184,
+        "h": 192
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 184,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 184,
+        "h": 192
+      }
+    },
+    "bg-city-scrapes_2": {
+      "frame": {
+        "x": 388,
+        "y": 124,
+        "w": 120,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 132
+      }
+    }
+  },
+  "meta": {
+    "image": "bg-city-scrapes.png",
+    "size": {
+      "w": 512,
+      "h": 256
+    },
+    "scale": 1
+  }
+}

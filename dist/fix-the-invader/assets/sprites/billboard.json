@@ -1,0 +1,72 @@
+{
+  "frames": {
+    "billboard_0": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 112,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 112,
+        "h": 106
+      }
+    },
+    "billboard_1": {
+      "frame": {
+        "x": 124,
+        "y": 4,
+        "w": 102,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 102,
+        "h": 58
+      }
+    },
+    "billboard_2": {
+      "frame": {
+        "x": 124,
+        "y": 66,
+        "w": 102,
+        "h": 58
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 58
+      },
+      "sourceSize": {
+        "w": 102,
+        "h": 58
+      }
+    }
+  },
+  "meta": {
+    "image": "billboard.png",
+    "size": {
+      "w": 256,
+      "h": 256
+    },
+    "scale": 1
+  }
+}

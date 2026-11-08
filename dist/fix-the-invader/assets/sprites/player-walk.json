@@ -1,0 +1,52 @@
+{
+  "frames": {
+    "player-walk_0": {
+      "frame": {
+        "x": 0,
+        "y": 4,
+        "w": 44,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 48
+      }
+    },
+    "player-walk_1": {
+      "frame": {
+        "x": 68,
+        "y": 4,
+        "w": 44,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 48
+      }
+    }
+  },
+  "meta": {
+    "image": "player-walk.png",
+    "size": {
+      "w": 112,
+      "h": 52
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,2532 @@
+{
+  "frames": {
+    "blood-sheet_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_1": {
+      "frame": {
+        "x": 110,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_2": {
+      "frame": {
+        "x": 220,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_3": {
+      "frame": {
+        "x": 330,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_4": {
+      "frame": {
+        "x": 440,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_5": {
+      "frame": {
+        "x": 550,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_6": {
+      "frame": {
+        "x": 660,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_7": {
+      "frame": {
+        "x": 770,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_8": {
+      "frame": {
+        "x": 880,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_9": {
+      "frame": {
+        "x": 990,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_10": {
+      "frame": {
+        "x": 1100,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_11": {
+      "frame": {
+        "x": 1210,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_12": {
+      "frame": {
+        "x": 1320,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_13": {
+      "frame": {
+        "x": 1430,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_14": {
+      "frame": {
+        "x": 0,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_15": {
+      "frame": {
+        "x": 110,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_16": {
+      "frame": {
+        "x": 220,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_17": {
+      "frame": {
+        "x": 330,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_18": {
+      "frame": {
+        "x": 440,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_19": {
+      "frame": {
+        "x": 550,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_20": {
+      "frame": {
+        "x": 660,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_21": {
+      "frame": {
+        "x": 770,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_22": {
+      "frame": {
+        "x": 880,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_23": {
+      "frame": {
+        "x": 990,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_24": {
+      "frame": {
+        "x": 1100,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_25": {
+      "frame": {
+        "x": 1210,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_26": {
+      "frame": {
+        "x": 1320,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_27": {
+      "frame": {
+        "x": 1430,
+        "y": 93,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_28": {
+      "frame": {
+        "x": 0,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_29": {
+      "frame": {
+        "x": 110,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_30": {
+      "frame": {
+        "x": 220,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_31": {
+      "frame": {
+        "x": 330,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_32": {
+      "frame": {
+        "x": 440,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_33": {
+      "frame": {
+        "x": 550,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_34": {
+      "frame": {
+        "x": 660,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_35": {
+      "frame": {
+        "x": 770,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_36": {
+      "frame": {
+        "x": 880,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_37": {
+      "frame": {
+        "x": 990,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_38": {
+      "frame": {
+        "x": 1100,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_39": {
+      "frame": {
+        "x": 1210,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_40": {
+      "frame": {
+        "x": 1320,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_41": {
+      "frame": {
+        "x": 1430,
+        "y": 186,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_42": {
+      "frame": {
+        "x": 0,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_43": {
+      "frame": {
+        "x": 110,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_44": {
+      "frame": {
+        "x": 220,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_45": {
+      "frame": {
+        "x": 330,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_46": {
+      "frame": {
+        "x": 440,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_47": {
+      "frame": {
+        "x": 550,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_48": {
+      "frame": {
+        "x": 660,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_49": {
+      "frame": {
+        "x": 770,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_50": {
+      "frame": {
+        "x": 880,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_51": {
+      "frame": {
+        "x": 990,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_52": {
+      "frame": {
+        "x": 1100,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_53": {
+      "frame": {
+        "x": 1210,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_54": {
+      "frame": {
+        "x": 1320,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_55": {
+      "frame": {
+        "x": 1430,
+        "y": 279,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_56": {
+      "frame": {
+        "x": 0,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_57": {
+      "frame": {
+        "x": 110,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_58": {
+      "frame": {
+        "x": 220,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_59": {
+      "frame": {
+        "x": 330,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_60": {
+      "frame": {
+        "x": 440,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_61": {
+      "frame": {
+        "x": 550,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_62": {
+      "frame": {
+        "x": 660,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_63": {
+      "frame": {
+        "x": 770,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_64": {
+      "frame": {
+        "x": 880,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_65": {
+      "frame": {
+        "x": 990,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_66": {
+      "frame": {
+        "x": 1100,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_67": {
+      "frame": {
+        "x": 1210,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_68": {
+      "frame": {
+        "x": 1320,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_69": {
+      "frame": {
+        "x": 1430,
+        "y": 372,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_70": {
+      "frame": {
+        "x": 0,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_71": {
+      "frame": {
+        "x": 110,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_72": {
+      "frame": {
+        "x": 220,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_73": {
+      "frame": {
+        "x": 330,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_74": {
+      "frame": {
+        "x": 440,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_75": {
+      "frame": {
+        "x": 550,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_76": {
+      "frame": {
+        "x": 660,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_77": {
+      "frame": {
+        "x": 770,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_78": {
+      "frame": {
+        "x": 880,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_79": {
+      "frame": {
+        "x": 990,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_80": {
+      "frame": {
+        "x": 1100,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_81": {
+      "frame": {
+        "x": 1210,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_82": {
+      "frame": {
+        "x": 1320,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_83": {
+      "frame": {
+        "x": 1430,
+        "y": 465,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_84": {
+      "frame": {
+        "x": 0,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_85": {
+      "frame": {
+        "x": 110,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_86": {
+      "frame": {
+        "x": 220,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_87": {
+      "frame": {
+        "x": 330,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_88": {
+      "frame": {
+        "x": 440,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_89": {
+      "frame": {
+        "x": 550,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_90": {
+      "frame": {
+        "x": 660,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_91": {
+      "frame": {
+        "x": 770,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_92": {
+      "frame": {
+        "x": 880,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_93": {
+      "frame": {
+        "x": 990,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_94": {
+      "frame": {
+        "x": 1100,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_95": {
+      "frame": {
+        "x": 1210,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_96": {
+      "frame": {
+        "x": 1320,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_97": {
+      "frame": {
+        "x": 1430,
+        "y": 558,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_98": {
+      "frame": {
+        "x": 0,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_99": {
+      "frame": {
+        "x": 110,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_100": {
+      "frame": {
+        "x": 220,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_101": {
+      "frame": {
+        "x": 330,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_102": {
+      "frame": {
+        "x": 440,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_103": {
+      "frame": {
+        "x": 550,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_104": {
+      "frame": {
+        "x": 660,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_105": {
+      "frame": {
+        "x": 770,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_106": {
+      "frame": {
+        "x": 880,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_107": {
+      "frame": {
+        "x": 990,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_108": {
+      "frame": {
+        "x": 1100,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_109": {
+      "frame": {
+        "x": 1210,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_110": {
+      "frame": {
+        "x": 1320,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_111": {
+      "frame": {
+        "x": 1430,
+        "y": 651,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_112": {
+      "frame": {
+        "x": 0,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_113": {
+      "frame": {
+        "x": 110,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_114": {
+      "frame": {
+        "x": 220,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_115": {
+      "frame": {
+        "x": 330,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_116": {
+      "frame": {
+        "x": 440,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_117": {
+      "frame": {
+        "x": 550,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_118": {
+      "frame": {
+        "x": 660,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_119": {
+      "frame": {
+        "x": 770,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_120": {
+      "frame": {
+        "x": 880,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_121": {
+      "frame": {
+        "x": 990,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_122": {
+      "frame": {
+        "x": 1100,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_123": {
+      "frame": {
+        "x": 1210,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_124": {
+      "frame": {
+        "x": 1320,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    },
+    "blood-sheet_125": {
+      "frame": {
+        "x": 1430,
+        "y": 744,
+        "w": 110,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 110,
+        "h": 93
+      }
+    }
+  },
+  "meta": {
+    "image": "blood-sheet.png",
+    "size": {
+      "w": 1540,
+      "h": 837
+    },
+    "scale": 1
+  }
+}

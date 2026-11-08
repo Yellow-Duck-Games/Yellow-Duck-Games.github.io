@@ -1,0 +1,32 @@
+{
+  "frames": {
+    "tree-2_0": {
+      "frame": {
+        "x": 8,
+        "y": 12,
+        "w": 248,
+        "h": 244
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 248,
+        "h": 244
+      },
+      "sourceSize": {
+        "w": 248,
+        "h": 244
+      }
+    }
+  },
+  "meta": {
+    "image": "tree-2.png",
+    "size": {
+      "w": 256,
+      "h": 256
+    },
+    "scale": 1
+  }
+}

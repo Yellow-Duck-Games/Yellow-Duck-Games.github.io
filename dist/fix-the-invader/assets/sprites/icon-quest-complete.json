@@ -1,0 +1,32 @@
+{
+  "frames": {
+    "icon-quest-complete_0": {
+      "frame": {
+        "x": 2,
+        "y": 4,
+        "w": 30,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 24
+      }
+    }
+  },
+  "meta": {
+    "image": "icon-quest-complete.png",
+    "size": {
+      "w": 32,
+      "h": 32
+    },
+    "scale": 1
+  }
+}

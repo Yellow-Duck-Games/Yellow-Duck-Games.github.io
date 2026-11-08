@@ -1,0 +1,52 @@
+{
+  "frames": {
+    "enemy-detached-body": {
+      "frame": {
+        "x": 8,
+        "y": 28,
+        "w": 44,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 36
+      }
+    },
+    "enemy-detached-head": {
+      "frame": {
+        "x": 16,
+        "y": 4,
+        "w": 32,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 20
+      }
+    }
+  },
+  "meta": {
+    "image": "enemy-detached.png",
+    "size": {
+      "w": 64,
+      "h": 64
+    },
+    "scale": 1
+  }
+}

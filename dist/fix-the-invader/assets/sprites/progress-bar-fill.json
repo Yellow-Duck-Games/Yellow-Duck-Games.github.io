@@ -1,0 +1,32 @@
+{
+  "frames": {
+    "progress-bar-fill": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 16
+      }
+    }
+  },
+  "meta": {
+    "image": "progress-bar-fill.png",
+    "size": {
+      "w": 256,
+      "h": 16
+    },
+    "scale": 1
+  }
+}

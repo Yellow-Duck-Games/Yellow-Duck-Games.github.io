@@ -1,0 +1,186 @@
+{
+  "step-dirt": [
+    "assets/audio/step-dirt-1.ogg",
+    "assets/audio/step-dirt-2.ogg",
+    "assets/audio/step-dirt-3.ogg",
+    "assets/audio/step-dirt-4.ogg",
+    "assets/audio/step-dirt-5.ogg",
+    "assets/audio/step-dirt-6.ogg"
+  ],
+  "step-concrete": [
+    "assets/audio/step-concrete-1.ogg",
+    "assets/audio/step-concrete-2.ogg",
+    "assets/audio/step-concrete-3.ogg",
+    "assets/audio/step-concrete-4.ogg",
+    "assets/audio/step-concrete-5.ogg",
+    "assets/audio/step-concrete-6.ogg"
+  ],
+  "land-dirt": [
+    "assets/audio/land-dirt-1.ogg",
+    "assets/audio/land-dirt-2.ogg",
+    "assets/audio/land-dirt-3.ogg",
+    "assets/audio/land-dirt-4.ogg"
+  ],
+  "land-concrete": [
+    "assets/audio/land-concrete-1.ogg",
+    "assets/audio/land-concrete-2.ogg",
+    "assets/audio/land-concrete-3.ogg",
+    "assets/audio/land-concrete-4.ogg"
+  ],
+  "jump": [
+    "assets/audio/jump-1.ogg",
+    "assets/audio/jump-2.ogg",
+    "assets/audio/jump-3.ogg",
+    "assets/audio/jump-4.ogg"
+  ],
+  "ladder": [
+    "assets/audio/ladder-1.ogg",
+    "assets/audio/ladder-2.ogg",
+    "assets/audio/ladder-3.ogg",
+    "assets/audio/ladder-4.ogg",
+    "assets/audio/ladder-5.ogg",
+    "assets/audio/ladder-6.ogg"
+  ],
+  "click-none": [
+    "assets/audio/click-none-1.ogg",
+    "assets/audio/click-none-2.ogg",
+    "assets/audio/click-none-3.ogg"
+  ],
+  "pickup": [
+    "assets/audio/pickup-1.ogg",
+    "assets/audio/pickup-2.ogg",
+    "assets/audio/pickup-3.ogg",
+    "assets/audio/pickup-4.ogg",
+    "assets/audio/pickup-5.ogg"
+  ],
+  "crate-hit": [
+    "assets/audio/crate-hit-1.ogg",
+    "assets/audio/crate-hit-2.ogg",
+    "assets/audio/crate-hit-3.ogg",
+    "assets/audio/crate-hit-4.ogg",
+    "assets/audio/crate-hit-5.ogg"
+  ],
+  "crate-break": [
+    "assets/audio/crate-break-1.ogg",
+    "assets/audio/crate-break-2.ogg",
+    "assets/audio/crate-break-3.ogg"
+  ],
+  "saw-push": [
+    "assets/audio/saw-push-1.wav",
+    "assets/audio/saw-push-2.wav",
+    "assets/audio/saw-push-3.wav"
+  ],
+  "saw-pull": [
+    "assets/audio/saw-pull-1.wav",
+    "assets/audio/saw-pull-2.wav",
+    "assets/audio/saw-pull-3.wav"
+  ],
+  "knife-swing": [
+    "assets/audio/knife-swing-1.ogg",
+    "assets/audio/knife-swing-2.ogg",
+    "assets/audio/knife-swing-3.ogg",
+    "assets/audio/knife-swing-4.ogg"
+  ],
+  "knife-stab": [
+    "assets/audio/knife-stab.ogg"
+  ],
+  "flesh": [
+    "assets/audio/flesh-1.ogg",
+    "assets/audio/flesh-2.ogg",
+    "assets/audio/flesh-3.ogg",
+    "assets/audio/flesh-4.ogg",
+    "assets/audio/flesh-5.ogg",
+    "assets/audio/flesh-6.ogg"
+  ],
+  "squish": [
+    "assets/audio/squish-1.ogg",
+    "assets/audio/squish-2.ogg",
+    "assets/audio/squish-3.ogg",
+    "assets/audio/squish-4.ogg"
+  ],
+  "invader-pain": [
+    "assets/audio/invader-pain-1.ogg",
+    "assets/audio/invader-pain-2.ogg",
+    "assets/audio/invader-pain-3.ogg",
+    "assets/audio/invader-pain-4.ogg",
+    "assets/audio/invader-pain-5.ogg"
+  ],
+  "invader-groan": [
+    "assets/audio/invader-groan-1.ogg",
+    "assets/audio/invader-groan-2.ogg",
+    "assets/audio/invader-groan-3.ogg",
+    "assets/audio/invader-groan-4.ogg"
+  ],
+  "neck-snap": [
+    "assets/audio/neck-snap-1.ogg",
+    "assets/audio/neck-snap-2.ogg",
+    "assets/audio/neck-snap-3.ogg",
+    "assets/audio/neck-snap-4.ogg"
+  ],
+  "place": [
+    "assets/audio/place-1.ogg",
+    "assets/audio/place-2.ogg",
+    "assets/audio/place-3.ogg"
+  ],
+  "error": [
+    "assets/audio/error-1.ogg",
+    "assets/audio/error-2.ogg",
+    "assets/audio/error-3.ogg"
+  ],
+  "switch": [
+    "assets/audio/switch-1.ogg",
+    "assets/audio/switch-2.ogg",
+    "assets/audio/switch-3.ogg",
+    "assets/audio/switch-4.ogg"
+  ],
+  "billboard-on": [
+    "assets/audio/billboard-on-1.ogg",
+    "assets/audio/billboard-on-2.ogg",
+    "assets/audio/billboard-on-3.ogg"
+  ],
+  "billboard-off": [
+    "assets/audio/billboard-off-1.ogg",
+    "assets/audio/billboard-off-2.ogg",
+    "assets/audio/billboard-off-3.ogg"
+  ],
+  "charger-start": [
+    "assets/audio/charger-start.ogg"
+  ],
+  "charger-loop": [
+    "assets/audio/charger-loop.ogg"
+  ],
+  "charger-empty": [
+    "assets/audio/charger-empty.ogg"
+  ],
+  "secret": [
+    "assets/audio/secret.ogg"
+  ],
+  "quest-new": [
+    "assets/audio/quest-new-1.ogg",
+    "assets/audio/quest-new-2.ogg"
+  ],
+  "quest-complete": [
+    "assets/audio/quest-complete.ogg"
+  ],
+  "level-complete": [
+    "assets/audio/level-complete.ogg"
+  ],
+  "speech": [
+    "assets/audio/speech-1.ogg",
+    "assets/audio/speech-2.ogg",
+    "assets/audio/speech-3.ogg"
+  ],
+  "ui-click": [
+    "assets/audio/ui-click-1.ogg",
+    "assets/audio/ui-click-2.ogg"
+  ],
+  "ambience-outdoor": [
+    "assets/audio/ambience-outdoor.ogg"
+  ],
+  "ambience-indoor": [
+    "assets/audio/ambience-indoor.ogg"
+  ],
+  "music-title": [
+    "assets/audio/music-title.ogg"
+  ]
+}

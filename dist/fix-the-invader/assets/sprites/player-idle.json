@@ -1,0 +1,52 @@
+{
+  "frames": {
+    "player-idle_0": {
+      "frame": {
+        "x": 8,
+        "y": 12,
+        "w": 44,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 52
+      }
+    },
+    "player-idle_1": {
+      "frame": {
+        "x": 76,
+        "y": 16,
+        "w": 44,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 48
+      }
+    }
+  },
+  "meta": {
+    "image": "player-idle.png",
+    "size": {
+      "w": 128,
+      "h": 64
+    },
+    "scale": 1
+  }
+}

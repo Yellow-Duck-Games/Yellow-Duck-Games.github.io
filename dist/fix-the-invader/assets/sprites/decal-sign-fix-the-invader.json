@@ -1,0 +1,32 @@
+{
+  "frames": {
+    "decal-sign-fix-the-invader_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 32
+      }
+    }
+  },
+  "meta": {
+    "image": "decal-sign-fix-the-invader.png",
+    "size": {
+      "w": 64,
+      "h": 32
+    },
+    "scale": 1
+  }
+}

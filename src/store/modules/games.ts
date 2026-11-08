@@ -34,6 +34,14 @@ const products: Product[] = [
     '',
     '',
     4),
+  // Browser game hosted on this site at /fix-the-invader/ (build of the fix-invader-web repo).
+  generateProduct('fix-the-invader',
+    'Fix the Invader',
+    `${BasePath}/fix-the-invader`,
+    '',
+    '',
+    4,
+    '/fix-the-invader/'),
 ];
 
 export const useGamesStore = defineStore({

@@ -1,0 +1,467 @@
+{
+  "type": "tileset",
+  "version": "1.10",
+  "tiledversion": "1.11.2",
+  "name": "objects",
+  "columns": 0,
+  "grid": {
+    "orientation": "orthogonal",
+    "width": 1,
+    "height": 1
+  },
+  "margin": 0,
+  "spacing": 0,
+  "tilecount": 32,
+  "tilewidth": 248,
+  "tileheight": 254,
+  "tiles": [
+    {
+      "id": 0,
+      "type": "PlayerSpawn",
+      "image": "../tiled/objects/PlayerSpawn.png",
+      "imagewidth": 44,
+      "imageheight": 52,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "player-idle:player-idle_0"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "type": "Invader",
+      "image": "../tiled/objects/Invader.png",
+      "imagewidth": 44,
+      "imageheight": 56,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "enemy-idle:enemy-idle_0"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "Saw",
+      "image": "../tiled/objects/Saw.png",
+      "imagewidth": 32,
+      "imageheight": 16,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "saw:saw_0"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "Crate",
+      "image": "../tiled/objects/Crate.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "tile-crate:tile-crate"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "Lamp",
+      "image": "../tiled/objects/Lamp.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "tile-lamp:tile-lamp_0"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "Button",
+      "image": "../tiled/objects/Button.png",
+      "imagewidth": 16,
+      "imageheight": 16,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "button:button-on"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "SecretToggle",
+      "image": "../tiled/objects/SecretToggle.png",
+      "imagewidth": 16,
+      "imageheight": 16,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "toggle:toggle-off"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "HealthCharger",
+      "image": "../tiled/objects/HealthCharger.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "health-charger:tiles-health-charger_0"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "Table",
+      "image": "../tiled/objects/Table.png",
+      "imagewidth": 64,
+      "imageheight": 26,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "table:table_0"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "Billboard",
+      "image": "../tiled/objects/Billboard.png",
+      "imagewidth": 112,
+      "imageheight": 106,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "billboard:billboard_0"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "BrokenBillboard",
+      "image": "../tiled/objects/BrokenBillboard.png",
+      "imagewidth": 112,
+      "imageheight": 106,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "billboard:billboard_0"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "Decor",
+      "image": "../tiled/objects/tree_0.png",
+      "imagewidth": 196,
+      "imageheight": 254,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "tree:tree_0"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "Decor",
+      "image": "../tiled/objects/tree-2_0.png",
+      "imagewidth": 248,
+      "imageheight": 244,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "tree-2:tree-2_0"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "Decor",
+      "image": "../tiled/objects/bush_0.png",
+      "imagewidth": 248,
+      "imageheight": 128,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "bush:bush_0"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "Decor",
+      "image": "../tiled/objects/trash-bag_0.png",
+      "imagewidth": 28,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "trash-bag:trash-bag_0"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "Decor",
+      "image": "../tiled/objects/bucket_0.png",
+      "imagewidth": 18,
+      "imageheight": 19,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "bucket:bucket_0"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": "Decor",
+      "image": "../tiled/objects/noose_0.png",
+      "imagewidth": 24,
+      "imageheight": 64,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "noose:noose_0"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": "Decor",
+      "image": "../tiled/objects/rope_0.png",
+      "imagewidth": 32,
+      "imageheight": 21,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "rope:rope_0"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": "Decor",
+      "image": "../tiled/objects/wall-nail_0.png",
+      "imagewidth": 4,
+      "imageheight": 4,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "wall-nail:wall-nail_0"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": "Decor",
+      "image": "../tiled/objects/decal-sign-fix-the-invader_0.png",
+      "imagewidth": 64,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "decal-sign-fix-the-invader:decal-sign-fix-the-invader_0"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": "Decor",
+      "image": "../tiled/objects/blood-splatters_0.png",
+      "imagewidth": 16,
+      "imageheight": 16,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "blood-splatters:blood-splatters_0"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "type": "Decor",
+      "image": "../tiled/objects/blood-splatters_1.png",
+      "imagewidth": 16,
+      "imageheight": 16,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "blood-splatters:blood-splatters_1"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "type": "Decor",
+      "image": "../tiled/objects/blood-splatters_2.png",
+      "imagewidth": 16,
+      "imageheight": 16,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "blood-splatters:blood-splatters_2"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "type": "Decor",
+      "image": "../tiled/objects/blood-splatters_3.png",
+      "imagewidth": 16,
+      "imageheight": 16,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "blood-splatters:blood-splatters_3"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "type": "Decor",
+      "image": "../tiled/objects/bg-city-scrapes_0.png",
+      "imagewidth": 176,
+      "imageheight": 212,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "bg-city-scrapes:bg-city-scrapes_0"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "type": "Decor",
+      "image": "../tiled/objects/bg-city-scrapes_1.png",
+      "imagewidth": 184,
+      "imageheight": 192,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "bg-city-scrapes:bg-city-scrapes_1"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "type": "Decor",
+      "image": "../tiled/objects/bg-city-scrapes_2.png",
+      "imagewidth": 120,
+      "imageheight": 132,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "bg-city-scrapes:bg-city-scrapes_2"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "type": "Decor",
+      "image": "../tiled/objects/enemy-detached-body.png",
+      "imagewidth": 44,
+      "imageheight": 36,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "enemy-detached:enemy-detached-body"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "type": "Decor",
+      "image": "../tiled/objects/enemy-detached-head.png",
+      "imagewidth": 32,
+      "imageheight": 20,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "enemy-detached:enemy-detached-head"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "type": "Decor",
+      "image": "../tiled/objects/spray-add-sign.png",
+      "imagewidth": 13,
+      "imageheight": 13,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "spray-add-sign:spray-add-sign"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "type": "Decor",
+      "image": "../tiled/objects/tile-lamp-small.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "tile-lamp-small:tile-lamp-small"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "type": "HangedInvader",
+      "image": "../tiled/objects/HangedInvader.png",
+      "imagewidth": 24,
+      "imageheight": 64,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "noose:noose_0"
+        }
+      ]
+    }
+  ]
+}

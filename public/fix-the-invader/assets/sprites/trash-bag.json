@@ -1,0 +1,32 @@
+{
+  "frames": {
+    "trash-bag_0": {
+      "frame": {
+        "x": 2,
+        "y": 0,
+        "w": 28,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 28,
+        "h": 32
+      }
+    }
+  },
+  "meta": {
+    "image": "trash-bag.png",
+    "size": {
+      "w": 32,
+      "h": 32
+    },
+    "scale": 1
+  }
+}
