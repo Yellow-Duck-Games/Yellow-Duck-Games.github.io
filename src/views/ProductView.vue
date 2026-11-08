@@ -109,7 +109,7 @@ watch(
               rel="noopener"
               class="btn btn--primary"
             >
-              <font-awesome-icon :icon="['fas', 'play']" /> Open
+              <font-awesome-icon :icon="['fas', 'play']" /> Play
             </a>
             <a
               v-if="product?.iosLink"
