@@ -11,7 +11,7 @@
   "margin": 1,
   "spacing": 2,
   "columns": 8,
-  "tilecount": 42,
+  "tilecount": 44,
   "tiles": [
     {
       "id": 0,
@@ -240,6 +240,11 @@
           "name": "name",
           "type": "string",
           "value": "tile-sunflower_0"
+        },
+        {
+          "name": "entity",
+          "type": "string",
+          "value": "Sunflower"
         }
       ]
     },
@@ -530,6 +535,26 @@
           "name": "name",
           "type": "string",
           "value": "tiles-weed_1"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "properties": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "capacitor_0"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "properties": [
+        {
+          "name": "name",
+          "type": "string",
+          "value": "capacitor_1"
         }
       ]
     }

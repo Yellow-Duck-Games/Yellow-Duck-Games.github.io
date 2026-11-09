@@ -297,7 +297,7 @@
                  "type":"Decor",
                  "visible":true,
                  "width":4,
-                 "x":1187,
+                 "x":1197,
                  "y":170
                 }, 
                 {
@@ -366,9 +366,28 @@
                  "y":416
                 }, 
                 {
+                 "gid":81,
+                 "height":32,
+                 "id":21,
+                 "name":"CapasitorSocket",
+                 "opacity":1,
+                 "properties":[
+                        {
+                         "name":"target",
+                         "type":"string",
+                         "value":"CatToggle"
+                        }],
+                 "rotation":0,
+                 "type":"CapacitorSocket",
+                 "visible":true,
+                 "width":32,
+                 "x":224,
+                 "y":416
+                }, 
+                {
                  "gid":59,
                  "height":106,
-                 "id":21,
+                 "id":46,
                  "name":"CatBillboard",
                  "opacity":1,
                  "rotation":0,
@@ -382,9 +401,14 @@
                  "gid":2147483703,
                  "height":16,
                  "id":22,
-                 "name":"",
+                 "name":"CatToggle",
                  "opacity":1,
                  "properties":[
+                        {
+                         "name":"powered",
+                         "type":"bool",
+                         "value":false
+                        }, 
                         {
                          "name":"target",
                          "type":"string",
@@ -522,8 +546,8 @@
                  "type":"Saw",
                  "visible":true,
                  "width":32,
-                 "x":1184.67014674323,
-                 "y":176.14500319007
+                 "x":1194.980496292,
+                 "y":176.281920095
                 }, 
                 {
                  "gid":56,
@@ -700,6 +724,17 @@
                  "id":41,
                  "name":"",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"drop",
+                         "type":"string",
+                         "value":"Capacitor"
+                        }, 
+                        {
+                         "name":"dropLine",
+                         "type":"string",
+                         "value":"Something fell out of him."
+                        }],
                  "rotation":0,
                  "type":"HangedInvader",
                  "visible":true,
@@ -823,8 +858,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":10,
- "nextobjectid":46,
+ "nextlayerid":11,
+ "nextobjectid":47,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -1054,6 +1089,11 @@
                 {
                  "id":17,
                  "properties":[
+                        {
+                         "name":"entity",
+                         "type":"string",
+                         "value":"Sunflower"
+                        }, 
                         {
                          "name":"name",
                          "type":"string",
@@ -1325,6 +1365,24 @@
                          "type":"string",
                          "value":"tiles-weed_1"
                         }]
+                }, 
+                {
+                 "id":42,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"capacitor_0"
+                        }]
+                }, 
+                {
+                 "id":43,
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"capacitor_1"
+                        }]
                 }],
          "tilewidth":32
         }, 
@@ -1340,7 +1398,7 @@
          "margin":0,
          "name":"objects",
          "spacing":0,
-         "tilecount":32,
+         "tilecount":34,
          "tileheight":254,
          "tiles":[
                 {
@@ -1758,6 +1816,32 @@
                          "value":"noose:noose_0"
                         }],
                  "type":"HangedInvader"
+                }, 
+                {
+                 "id":32,
+                 "image":"..\/tiled\/objects\/CapacitorSocket.png",
+                 "imageheight":32,
+                 "imagewidth":32,
+                 "properties":[
+                        {
+                         "name":"sprite",
+                         "type":"string",
+                         "value":"capacitor:capacitor_0"
+                        }],
+                 "type":"CapacitorSocket"
+                }, 
+                {
+                 "id":33,
+                 "image":"..\/tiled\/objects\/Capacitor.png",
+                 "imageheight":32,
+                 "imagewidth":32,
+                 "properties":[
+                        {
+                         "name":"sprite",
+                         "type":"string",
+                         "value":"capacitor:capacitor_1"
+                        }],
+                 "type":"Capacitor"
                 }],
          "tilewidth":248
         }],

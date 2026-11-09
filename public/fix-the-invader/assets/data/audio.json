@@ -182,5 +182,11 @@
   ],
   "music-title": [
     "assets/audio/music-title.ogg"
+  ],
+  "rustle": [
+    "assets/audio/rustle-1.ogg",
+    "assets/audio/rustle-2.ogg",
+    "assets/audio/rustle-3.ogg",
+    "assets/audio/rustle-4.ogg"
   ]
 }

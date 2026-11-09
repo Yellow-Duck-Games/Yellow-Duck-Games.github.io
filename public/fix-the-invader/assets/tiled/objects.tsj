@@ -11,7 +11,7 @@
   },
   "margin": 0,
   "spacing": 0,
-  "tilecount": 32,
+  "tilecount": 34,
   "tilewidth": 248,
   "tileheight": 254,
   "tiles": [
@@ -460,6 +460,34 @@
           "name": "sprite",
           "type": "string",
           "value": "noose:noose_0"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "type": "CapacitorSocket",
+      "image": "../tiled/objects/CapacitorSocket.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "capacitor:capacitor_0"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "Capacitor",
+      "image": "../tiled/objects/Capacitor.png",
+      "imagewidth": 32,
+      "imageheight": 32,
+      "properties": [
+        {
+          "name": "sprite",
+          "type": "string",
+          "value": "capacitor:capacitor_1"
         }
       ]
     }

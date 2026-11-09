@@ -226,5 +226,8 @@
   },
   "wall-nail": {
     "scale": 1
+  },
+  "capacitor": {
+    "scale": 1
   }
 }
